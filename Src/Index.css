@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+  overflow: hidden; /* Prevent scroll bars */
+  background-color: #000000; /* Ensure the background is black */
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+}
